@@ -1,6 +1,6 @@
 {
-  "name": "material-ui-rating",
-  "version": "4.2.0",
+  "name": "@busbooking/material-ui-rating",
+  "version": "4.3.0",
   "description": "Material style rating",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
